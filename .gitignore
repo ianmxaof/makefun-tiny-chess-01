@@ -7,3 +7,9 @@ kit/
 *.tar.gz
 transcripts/
 bundle/
+
+_pack.py
+_smoke.py
+starter/
+.kit/
+
