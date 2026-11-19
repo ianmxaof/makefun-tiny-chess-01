@@ -10,6 +10,9 @@ bundle/
 
 _pack.py
 _smoke.py
+_engine_src.py
+_mk_tables.py
+notes/
 starter/
 .kit/
 
