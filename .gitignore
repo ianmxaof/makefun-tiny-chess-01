@@ -1,0 +1,9 @@
+# Ignore secrets and local kit
+.env
+.env.*
+*.session
+.kit/
+kit/
+*.tar.gz
+transcripts/
+bundle/
