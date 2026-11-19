@@ -26,22 +26,28 @@ python main.py
 
 ## Sponsors & referrals
 
+**Enter make.fun here → [https://make.fun/r/vt00s507](https://make.fun/r/vt00s507)** (PowerCore referral)
+
 | Link | What |
 |---|---|
-| **[make.fun/r/vt00s507](https://make.fun/r/vt00s507)** | **This bounty — use this** |
-| [powercore.app](https://powercore.app/?utm_source=github&utm_campaign=tiny-chess) | PowerCore |
-| [Cursor](https://cursor.com/referral?code=WKMSQ8BYPM1O) | Editor that built this |
-| [Claude](https://claude.ai/referral/ve9d3Ki_QA) | Claude referral |
-| [Silkcompute](https://silkcompute.com/?ref=vwmppgyf) | Inference |
-| [Featherless](https://featherless.ai/register?referrer=AKK3MHPK) | Open-weight API |
-| [Abliteration.ai](https://abliteration.ai/sign-up?referral_code=ref_5zTlwMOPEFFe) | Uncensored weights |
-| [Venice](https://venice.ai/chat?ref=7yDxi1) · [Nano GPT](https://nano-gpt.com/r/fD4dditG) · [Agentrouter](https://agentrouter.org/register?aff=Fslo) | More AI |
-| [Mercor](https://t.mercor.com/YXkLs) · [Handshake](https://joinhandshake.com/move-program/referral?referralCode=F1ABCD&utm_source=referral) | AI work |
-| [Proton](https://pr.tn/ref/95GM632C) · [AOF VIP](https://aof69.gumroad.com/l/ynnulc) · [Loot God](https://t.me/aof_lootgod_bot?start=loot_free) | Tools / AOF |
+| **[make.fun/r/vt00s507](https://make.fun/r/vt00s507)** | **This bounty / make.fun — use this** |
+| [PowerCore](https://powercore.app/?utm_source=github&utm_campaign=readme-affiliates) | PowerCore |
+| [Cursor](https://cursor.com/referral?code=WKMSQ8BYPM1O) | Cursor |
+| [Claude](https://claude.ai/referral/ve9d3Ki_QA) | Claude |
+| [Silkcompute](https://silkcompute.com/?ref=vwmppgyf) | Silkcompute |
+| [Featherless](https://featherless.ai/register?referrer=AKK3MHPK) | Featherless |
+| [Abliteration](https://abliteration.ai/sign-up?referral_code=ref_5zTlwMOPEFFe) | Abliteration |
+| [Venice](https://venice.ai/chat?ref=7yDxi1) | Venice |
+| [Nano Gpt](https://nano-gpt.com/r/fD4dditG) | Nano Gpt |
+| [Agentrouter](https://agentrouter.org/register?aff=Fslo) | Agentrouter |
+| [Mercor](https://t.mercor.com/YXkLs) | Mercor |
+| [Handshake](https://joinhandshake.com/move-program/referral?referralCode=F1ABCD&utm_source=referral) | Handshake |
+| [Proton](https://pr.tn/ref/95GM632C) | Proton |
+| [AOF VIP](https://aof69.gumroad.com/l/ynnulc) | AOF VIP |
+| [Loot God](https://t.me/aof_lootgod_bot?start=loot_free) | Loot God |
 
-Dozens more rotate in PowerCore Vault → Sponsors (kept out of this snapshot for the byte cap).
+More rotations: PowerCore Vault → Sponsors. Contest snapshots keep this block lean.
 
-Board: [contest](https://make.fun/c/tiny-chess-01) · [leaderboard](https://make.fun/bounty/tiny-chess-01/leaderboard) · **ref [vt00s507](https://make.fun/r/vt00s507)**
 
 ## License
 
