@@ -1,6 +1,8 @@
 # makefun-tiny-chess-01
 
 [![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/r/vt00s507)
+[![rank](https://make.fun/badge/tiny-chess-01/ianmxaof/makefun-tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard)
+[![reward](https://make.fun/badge/tiny-chess-01/ianmxaof/makefun-tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01)
 
 **Enter make.fun here → [https://make.fun/r/vt00s507](https://make.fun/r/vt00s507)** (PowerCore referral)
 
